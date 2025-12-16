@@ -21,9 +21,9 @@ Dataset is anonymized and used solely for analytical and learning purposes
 
 **Features / Highlights**
 
-*🔹 Customer Overview - Total customers, active vs inactive customers, Credit card holders vs non-credit card holders, High-value customer identification
-*🔹 Retention & Churn Analysis - Overall retention rate and churn rate, High-value customer retention and churn metrics, Year-over-Year retention trend analysis
-*🔹 Behavioral Insights - Customer activity trends by month and year, Exit patterns by tenure, Retained vs exited customers across different tenure ranges
-*🔹 Credit Risk Analysis - Average credit score tracking, Churn distribution by credit rating (Excellent → Poor), Retention analysis segmented by credit score bands
-*🔹 Demographic & Category Insights - Exited customers by gender, Exits by credit card ownership category, Active and inactive exit comparison
-*🔹 Interactive Capabilities - Year-wise and location-based slicers, Drill-down enabled visuals for deeper analysis, Dynamic KPIs responding to filters
+*Customer Overview - Total customers, active vs inactive customers, Credit card holders vs non-credit card holders, High-value customer identification
+*Retention & Churn Analysis - Overall retention rate and churn rate, High-value customer retention and churn metrics, Year-over-Year retention trend analysis
+*Behavioral Insights - Customer activity trends by month and year, Exit patterns by tenure, Retained vs exited customers across different tenure ranges
+*Credit Risk Analysis - Average credit score tracking, Churn distribution by credit rating (Excellent → Poor), Retention analysis segmented by credit score bands
+*Demographic & Category Insights - Exited customers by gender, Exits by credit card ownership category, Active and inactive exit comparison
+*Interactive Capabilities - Year-wise and location-based slicers, Drill-down enabled visuals for deeper analysis, Dynamic KPIs responding to filters
