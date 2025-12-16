@@ -7,11 +7,11 @@ This dashboard focuses on analyzing customer churn, retention behavior, and cred
 
 **Tech Stack**
 
-1. Power BI – Data modeling, DAX measures, interactive dashboards
-2. DAX – KPI calculations (Churn Rate, Retention Rate, YoY trends)
-3. Power Query – Data cleaning, transformation, and enrichment
-4. Excel / CSV – Source data handling and preprocessing
-5. Data Visualization – KPI cards, line charts, bar charts, donut charts, maps, slicers
+1.**Power BI** – Data modeling, DAX measures, interactive dashboards
+2. **DAX** – KPI calculations (Churn Rate, Retention Rate, YoY trends)
+3. **Power Query** – Data cleaning, transformation, and enrichment
+4. **Excel / CSV** – Source data handling and preprocessing
+5. **Data Visualization** – KPI cards, line charts, bar charts, donut charts, maps, slicers
 
 **Data Source**
 
@@ -21,7 +21,8 @@ Dataset is anonymized and used solely for analytical and learning purposes
 
 **Features / Highlights**
 
-*Customer Overview - Total customers, active vs inactive customers, Credit card holders vs non-credit card holders, High-value customer identification
+- Customer details
+* Customer Overview - Total customers, active vs inactive customers, Credit card holders vs non-credit card holders, High-value customer identification
 *Retention & Churn Analysis - Overall retention rate and churn rate, High-value customer retention and churn metrics, Year-over-Year retention trend analysis
 *Behavioral Insights - Customer activity trends by month and year, Exit patterns by tenure, Retained vs exited customers across different tenure ranges
 *Credit Risk Analysis - Average credit score tracking, Churn distribution by credit rating (Excellent → Poor), Retention analysis segmented by credit score bands
